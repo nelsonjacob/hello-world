@@ -1,2 +1,2 @@
 # hello-world
-Learning how to use GitHub and Git
+Hello, I am Jacob Nelson! I am working on learning how to work with GitHub so I can work better with sharing my projects.
